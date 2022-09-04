@@ -1,0 +1,1 @@
+gcc session.c -o session -I/usr/local/include -L/usr/local/lib64 -lmicrohttpd
